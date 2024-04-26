@@ -43,7 +43,7 @@ int main(void)
 	printf("\n\t\t\t\t=====================");
 	char fname[50];
 	int corse;
-	printf("Enter the file name: \n");
+	printf("Enter the file name to save data to: \n");
 	fgets(fname,sizeof(fname),stdin);
 	printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n "); 
 	printf("Enter the course of interest: \nEnter 1 for M.S\nEnter 2 for MBA\nEnter 3 for M.tech\n");
