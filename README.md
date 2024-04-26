@@ -1,6 +1,6 @@
 # **CollegeAdvisor**
 
-A simple, CLI application that recommends colleges/universities for higher studies based on the choice of course and location.
+A simple CLI application that recommends colleges/universities for higher studies based on the choice of course and location.
 
 # Usage
 
