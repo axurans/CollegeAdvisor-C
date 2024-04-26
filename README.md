@@ -2,7 +2,7 @@
 
 A simple, CLI application that recommends colleges/universities for higher studies based on the choice of course and location.
 
-#Usage
+# Usage
 
 **Installation**
 1. Clone this repository:
