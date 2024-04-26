@@ -8,9 +8,11 @@ A simple, CLI application that recommends colleges/universities for higher studi
 1. Clone this repository:
    
 ``` git clone https://github.com/axurans/CollegeAdvisor-C.git ```
+
 2. Compile the application:
 
 ``` gcc ClgAdvisor.c -o clg ```
+
 3. Run the application:
 
 ``` ./clg ```
